@@ -10,7 +10,7 @@ namespace Polimorfismo
         //Virtual, para sobrescribir el comportamiento en las clases derivadas.
         public virtual void Draw()
         {
-            Console.WriteLine("Cambiando  cosas de la clase Base");
+            Console.WriteLine("Cambiando anda  cosas de la clase Base");
         }
     }
 }
